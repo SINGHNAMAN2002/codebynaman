@@ -1,2 +1,4 @@
-this is the first push:wq
+this the first push text file
+2 now it  is being updated
+
 
