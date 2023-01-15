@@ -1,4 +1,4 @@
 line 1 by naman
-line 2 by author 
-line 3 by a child 
-line 4 dedicatted to the organisation
+line 2 by author
+line 3 by a child (edited by the author)
+line 4 dedicated to the organisation
